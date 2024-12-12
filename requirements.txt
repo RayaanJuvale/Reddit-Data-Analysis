@@ -1,0 +1,7 @@
+apache-airflow
+pg8000
+streamlit
+praw 
+plotly
+pandas
+pendulum==2.1.2
